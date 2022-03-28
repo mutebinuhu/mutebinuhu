@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mutebinuhu
-- 👀 I’m interested in MERN STACK...
-- 🌱 I’m currently learning and improving on the MERN STACK...
-- 💞️ I’m looking to collaborate on any project in the MERN STACK
+- 👀 I’m interested in php(laravel) and the MERN STACK
+- 💞️ I’m looking to collaborate on any project in the MERN STACK and PHP(Laravel)
 - 📫 How to reach me ...mutebinuhu1@gmail.com 
 
 <!---
