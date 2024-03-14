@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mutebinuhu
-- 👀 I’m interested in php(laravel) and the MERN STACK
-- 💞️ I’m looking to collaborate on any project in the MERN STACK and PHP(Laravel)
+- 👀 I’m a pPassionate and Curious Fullstack software developer
+- 💞️ I’m looking to collaborate on any project on fronted end, backend and mobile
 - 📫 How to reach me ...mutebinuhu1@gmail.com 
-- 🍸 Some of my live projects https://citymobilewetanddrycleaners.herokuapp.com/ , https://loansy.herokuapp.com/ , https://mugapp.herokuapp.com/ , https://fleetms.cml.ug/
+- 🍸 Some of my live projects https://operations.thecloud.ae/ , https://www.aandrssolutionsltd.co.uk/ , https://delivernext.vercel.app/ ,https://fleetms.cml.ug/, https://www.marynanbites.com/
 - ⬇️ Feel free to clone other repositories
 <!---
 mutebinuhu/mutebinuhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
