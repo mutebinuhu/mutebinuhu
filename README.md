@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mutebinuhu
-- 👀 I’m a pPassionate and Curious Fullstack software developer
+- 👀 I’m a Passionate and Curious Fullstack software developer
 - 💞️ I’m looking to collaborate on any project on fronted end, backend and mobile
 - 📫 How to reach me ...mutebinuhu1@gmail.com 
 - 🍸 Some of my live projects https://operations.thecloud.ae/ , https://www.aandrssolutionsltd.co.uk/ , https://delivernext.vercel.app/ ,https://fleetms.cml.ug/, https://www.marynanbites.com/
